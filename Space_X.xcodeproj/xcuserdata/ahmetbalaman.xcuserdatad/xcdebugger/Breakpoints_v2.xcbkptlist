@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0DF667F2-485A-4977-87E4-385DEC184CFB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7D35B6F2-AD2D-4F03-9E26-F4118151B541"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Space_X/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "139"
+            endingLineNumber = "139"
+            landmarkName = "configureScrollView()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DF7D1332-5713-4F0E-BA9A-124B9EDB90F8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Space_X/LaunchesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "DF7D1332-5713-4F0E-BA9A-124B9EDB90F8 - 5f3faf51e17aa887"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Space_X.LaunchesViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Space_X.LaunchesViewController"
+                  moduleName = "Space_X"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmetbalaman/Desktop/swift/Space_X/Space_X/LaunchesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "DF7D1332-5713-4F0E-BA9A-124B9EDB90F8 - 3408bd6616760081"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Space_X.LaunchesViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Space_X.LaunchesViewController"
+                  moduleName = "Space_X"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmetbalaman/Desktop/swift/Space_X/Space_X/LaunchesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "DF7D1332-5713-4F0E-BA9A-124B9EDB90F8 - a8325a429927a15e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Space_X.LaunchesViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Space_X.LaunchesViewController&gt;"
+                  moduleName = "Space_X"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmetbalaman/Desktop/swift/Space_X/Space_X/LaunchesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "DF7D1332-5713-4F0E-BA9A-124B9EDB90F8 - eacba5a703196a86"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Space_X.LaunchesViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Space_X.LaunchesViewController&gt;"
+                  moduleName = "Space_X"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmetbalaman/Desktop/swift/Space_X/Space_X/LaunchesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "DF7D1332-5713-4F0E-BA9A-124B9EDB90F8 - e7cd7ea249b1beeb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Space_X.LaunchesViewController.__deallocating_deinit"
+                  moduleName = "Space_X"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmetbalaman/Desktop/swift/Space_X/Space_X/LaunchesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "10"
+                  endingLineNumber = "10"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DB675FF2-88C8-489D-9681-353C3B433521"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Space_X/LaunchesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "LaunchesViewController"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
